@@ -18,4 +18,7 @@ Plug n Play Braille Keyboard for your smartphone
 7. CAD Case
 
 8. Print case
-xc9. Give board to visually impared peeps & get feedback
+
+9. Give board to visually impared peeps & get feedback
+
+10. Brailler Trainer app
