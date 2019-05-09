@@ -1,6 +1,9 @@
 # Tipo
 Plug n Play Braille Keyboard for your smartphone
 
+# What is available?
+1. Arduino Firmware for a USB keyboard using atmega32u4
+2. Eagle CAD board files to print the PCB
 
 # TO-DO
 1. Remove bt ezkey module and get the arduino micro to type stuff onto notepad using 2 or 3 buttons - Done
